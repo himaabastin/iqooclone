@@ -1,0 +1,224 @@
+*{
+    margin:0;
+}
+.main-head{
+    background: rgb(40, 39, 39);
+    height: 15vh;
+    width: 100%;
+}
+.logo{
+    color:white;
+    font: weight 12px;;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+
+}
+.logo:hover{
+    color:rgb(245, 205, 7);
+    transition: color 0.25s;
+}
+.logo-pos{
+    padding-left: 324px;
+padding-top: 25px;
+    
+
+
+}
+.home-pos{
+   line-height:0vh;
+    padding-left:540px;
+
+  
+}
+    
+    .home-tab{
+    color:rgb(105, 102, 102);
+    float:left;
+    font-size: 20px;
+    font-weight:lighter;
+    font-family: arial;
+  
+
+
+}
+.products{
+    padding-left:100px;
+    color:white;
+    text-decoration: solid;
+    font-size:20px ;
+    font-family: arial;
+    cursor: pointer;
+    font-weight: lighter;
+}
+.products:hover{
+    color:rgb(246, 121, 3);
+    transition: color 0.25s;
+    
+}
+.iqoo9T{
+    padding-left:222px;
+    color:white;
+    text-decoration: solid;
+    font-size:18px ;
+    font-family: arial;
+    cursor: pointer;
+    font-weight: lighter;
+
+}
+.iqoo9T:hover{
+    color:rgb(246, 121, 3);
+    transition: color 0.25s;
+
+}
+.iqooNeo6{
+    padding-left:328px;
+    color:white;
+    text-decoration: solid;
+    font-size:18px ;
+    font-family: arial;
+    cursor: pointer;
+    font-weight: lighter;
+
+}
+.iqooNeo6:hover{
+    color:rgb(246, 121, 3);
+    transition: color 0.25s;
+}
+.iqoo9{
+    padding-left:461px;
+    color:white;
+    text-decoration: solid;
+    font-size:18px ;
+    font-family: arial;
+    cursor: pointer;
+    font-weight: lighter;
+
+}
+
+
+.iqoo9:hover{
+    color:rgb(246, 121, 3);
+    transition: color 0.25s;
+}
+.iqoo9pro{
+    padding-left:562px;
+    color:white;
+    text-decoration: solid;
+    font-size:18px ;
+    font-family: arial;
+    cursor: pointer;
+    font-weight: lighter;
+
+}
+.iqoo9pro:hover{
+    color:rgb(246, 121, 3);
+    transition: color 0.25s;
+   
+}
+.support{
+    padding-left:683px;
+    color:white;
+    text-decoration: solid;
+    font-size:18px ;
+    font-family: arial;
+    cursor: pointer;
+    font-weight: lighter;
+
+}
+.support:hover{
+    color:rgb(246, 121, 3);
+    transition: color 0.25s;
+
+}
+.about{
+    padding-left:784px;
+    color:white;
+    text-decoration: solid;
+    font-size:18px ;
+    font-family: arial;
+    cursor: pointer;
+    font-weight: lighter;
+}
+.about:hover{
+    color:rgb(246, 121, 3);
+    transition: color 0.25s;
+}
+.icon{
+    padding-left:925px;
+    color:white;
+    text-decoration: solid;
+    cursor: pointer;
+    font-weight: lighter;
+}
+.bg-pic{
+  height:100vh;
+  width:100%;
+
+}
+
+
+.column {
+    float: left;
+    width: 24%;
+    padding: 5px;
+    height:25vh ;
+    padding-bottom:80px;
+    cursor:pointer;
+    
+  }
+
+  
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+ .column:hover{
+    transform: scale(1.1);
+    transition: transform 0.25s;
+ }
+ th, td {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 69px;
+    padding-right:257px;
+  }
+td{
+    color: gray;
+}
+.final{
+    background-color: black;
+    height:79px;
+    width: 100%;
+}
+.copyright{
+    color: rgb(101, 101, 101);
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
